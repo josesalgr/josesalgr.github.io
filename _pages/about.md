@@ -9,17 +9,18 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Room 36-776A</p>
-    <p>50 Vassar St. </p>
-    <p>(MIT building 36) </p>
-    <p>Cambridge, MA 02139</p>
+    <p>Crta. de St. Llorenç de Morunys, km 2 </p>
+    <p> CTFC </p>
+    <p>Solsona, Spain</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hola, soy terrible bakan.
+Hi! I am currently a fourth-year PhD student at the Polytechnic University of Catalonia (UPC) specializing in Statistics and Operations Research (OR). My research focuses on the use of OR methodologies in the management of conservation actions and contribute to decision-making in often complex problems. Applications include the creation of mathematical models to dynamically and spatially explicit plan appropriate management actions, using simulation and stochastic programming. I am advised by Prof. [Virgilio Hermoso](https://scholar.google.com/citations?user=mrSgHusAAAAJ&hl=es) and Prof. [Eduardo Álvarez-Miranda](https://fen.utalca.cl/profesor/eduardo-alvarez-miranda/).
+
+Prior to UPC, I received my Bachelor’s degree from the University of Talca, Chile in 2017. Currently, I work at the Forest Science and Technology Centre of Catalonia (CTFC), Spain.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.test
