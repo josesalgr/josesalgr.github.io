@@ -2,13 +2,13 @@
   type: map
   contents:
     - name: Full Name
-      value: Junshen Xu
+      value: José Salgado-Rojas
     #- name: Date of Birth
     #  value: 14th March 1879
     - name: Email
-      value: junshen [at] mit [dot] edu
+      value: jose.salgroj@gmail.com
     - name: Languages
-      value: English, Chinese
+      value: English, Spanish, Catalan
 
 - title: Education
   type: time_table
